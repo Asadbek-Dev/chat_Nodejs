@@ -2,9 +2,13 @@
   "name": "chat_app",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "devStart":"nodemon server.js"
+  },
   "author": "Asadbek-Dev <asadbek.dev1101@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "nodemon": "^2.0.12",
     "socket.io": "^4.2.0"
   }
 }
