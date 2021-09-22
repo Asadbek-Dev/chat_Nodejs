@@ -8,7 +8,9 @@
   "author": "Asadbek-Dev <asadbek.dev1101@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "nodemon": "^2.0.12",
     "socket.io": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
